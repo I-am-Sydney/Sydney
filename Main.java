@@ -20,7 +20,7 @@ class Main{
           break;
           default:
           System.out.println("Invalid choice");
-          input.next();
+          input.next();//lana
       }
       }
     }
