@@ -35,6 +35,7 @@ public static void dwight(){
   input.nextLine();
   input.nextLine();
 }
+//Ricardo
 public static void timmy(){
   System.out.println("This year, Timmy Turner is not going to take it!");
   input.nextLine();
